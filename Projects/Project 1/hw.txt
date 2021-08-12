@@ -1,0 +1,57 @@
+1.
+
+Output:
+endlendl
+grendel
+
+2.
+
+This program prints a "staircase" of the # character where the top of the staircase is the top left and the bottom is the bottom right where the number of rows is the same as the input number and the final row has the same number of #'s as the input number (alternatively, it prints a triangle of the # character in the same manner starting with one #, having the same number of rows as the input integer, and the last row having the same number of #'s as the input number).
+
+3.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int side;
+	int j;
+
+	cout << "Enter a number: ";
+	cin >> side;
+
+	for (int i = 0; i < side; i++)
+	{
+		j = i;
+		while (j >= 0)
+		{
+			cout << "#";
+			j--;
+		}
+		cout << "\n";
+	}
+}
+
+4.
+
+switch (codeSection) {
+	case 321:
+		cout << "selling illegal lottery tickets";
+		break;
+	case 281:
+		cout << "bigamy";
+		break;
+	case 322:
+		cout << "selling illegal lottery tickets";
+		break;
+	case 383
+		cout << "selling rancid butter";
+		break;
+	case 598:
+		cout << "injuring a bird in a public cemetary";
+		break;
+	default:
+		cout << "some other crime";
+		break;
+	}

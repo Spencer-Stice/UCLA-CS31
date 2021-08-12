@@ -1,0 +1,6 @@
+﻿  compile_error.cpp
+C:\Users\spice\Desktop\School\CS 31\SticeAssignment1Problem7\SticeAssignment1Problem7\compile_error.cpp(15,9): error C2065: 'forJoe': undeclared identifier
+C:\Users\spice\Desktop\School\CS 31\SticeAssignment1Problem7\SticeAssignment1Problem7\compile_error.cpp(19,26): error C2065: 'forJoe': undeclared identifier
+C:\Users\spice\Desktop\School\CS 31\SticeAssignment1Problem7\SticeAssignment1Problem7\compile_error.cpp(29,6): error C2065: 'forJoe': undeclared identifier
+C:\Users\spice\Desktop\School\CS 31\SticeAssignment1Problem7\SticeAssignment1Problem7\compile_error.cpp(30,11): error C2001: newline in constant
+C:\Users\spice\Desktop\School\CS 31\SticeAssignment1Problem7\SticeAssignment1Problem7\compile_error.cpp(31,2): error C2143: syntax error: missing ';' before 'else'

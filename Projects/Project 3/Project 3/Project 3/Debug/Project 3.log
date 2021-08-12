@@ -1,0 +1,8 @@
+﻿  poll.cpp
+C:\Users\spice\Desktop\School\CS 31\General Project Stuff\Project 3\Project 3\Project 3\poll.cpp(44,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spice\Desktop\School\CS 31\General Project Stuff\Project 3\Project 3\Project 3\poll.cpp(80,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spice\Desktop\School\CS 31\General Project Stuff\Project 3\Project 3\Project 3\poll.cpp(90,83): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\spice\Desktop\School\CS 31\General Project Stuff\Project 3\Project 3\Project 3\poll.cpp(166,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spice\Desktop\School\CS 31\General Project Stuff\Project 3\Project 3\Project 3\poll.cpp(170,39): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\spice\Desktop\School\CS 31\General Project Stuff\Project 3\Project 3\Project 3\poll.cpp(180,44): warning C4018: '>=': signed/unsigned mismatch
+  Project 3.vcxproj -> C:\Users\spice\Desktop\School\CS 31\General Project Stuff\Project 3\Project 3\Debug\Project 3.exe
